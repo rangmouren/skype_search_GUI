@@ -1,0 +1,13 @@
+/.idea
+/logs
+/venv
+/crm_web
+/Lanv/settings/logs/*
+/doc
+/tests/business.txt
+/tests/business_product.txt
+**/__pycache__/*.pyc
+*log
+*pyc
+*__pycache__
+*whl
